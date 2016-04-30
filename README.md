@@ -14,14 +14,21 @@ E-mail:abslant@126.com
 远程服务器调用方法：
 # PHP版服务端脚本
 不推荐使用这种方式，推荐使用以后更新的Python脚本。。。
+
 下载地址：http://wangpengnimei.ctfile.com/fs/7zR149909465
+
 下载后传到服务端，后面自己领悟吧
 
 # Python版服务端脚本
+
 Python版脚本更稳定，理论上可上传无限大的文件（PHP文件大小有限制）,所以我更推崇这种服务端。
+
 安装说明：
+
 我将以举例的方式说明Python版服务端安装.
+
 1.首先要在服务器上安装Python，推荐2.7版本，其他版本未做兼容性测试。教程大家可以百度
+
 2.安装pip(已安装可以跳过)
 下载Python脚本：http://wangpengnimei.ctfile.com/fs/N5R149909534
 并再终端中运行即可自动下载安装。
